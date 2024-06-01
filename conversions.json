@@ -1,0 +1,34 @@
+[
+  {
+    "baseCode": "USD",
+    "targetCode": "ARS",
+    "conversionRate": 864.75,
+    "inputAmount": 20.0,
+    "convertedAmount": 17295.0,
+    "createdAt": "2024-06-01T16:54:44.703951500"
+  },
+  {
+    "baseCode": "ARS",
+    "targetCode": "USD",
+    "conversionRate": 0.001156,
+    "inputAmount": 20000.0,
+    "convertedAmount": 23.119999999999997,
+    "createdAt": "2024-06-01T16:54:48.940217900"
+  },
+  {
+    "baseCode": "COP",
+    "targetCode": "USD",
+    "conversionRate": 2.5857E-4,
+    "inputAmount": 685000.0,
+    "convertedAmount": 177.12045,
+    "createdAt": "2024-06-01 17:10:57.494990300"
+  },
+  {
+    "baseCode": "USD",
+    "targetCode": "CLP",
+    "conversionRate": 916.6759,
+    "inputAmount": 140.0,
+    "convertedAmount": 128334.62599999999,
+    "createdAt": "2024-06-01 17:11:04.840480400"
+  }
+]
